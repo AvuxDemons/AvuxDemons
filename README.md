@@ -33,8 +33,7 @@ If you have any questions, feel free to join my [Discord Server](https://api.avu
   <tr>
     <td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avuxdemons&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avuxdemons
-  &show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avuxdemons&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
   </tr>
  <table>
   </div>
