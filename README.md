@@ -28,12 +28,13 @@ If you have any questions, feel free to join my [Discord Server](https://api.avu
 
 <br/>
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=avuxgaming&theme=dracula&count_private=true"></div>
+ <img src="https://github-profile-trophy.vercel.app/?username=avuxdemons&theme=dracula&count_private=true"></div>
 <table width="100%" align="center">
   <tr>
     <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=avuxgaming&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avuxgaming&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=avuxdemons&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+  &show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
   </tr>
  <table>
   </div>
@@ -43,6 +44,6 @@ If you have any questions, feel free to join my [Discord Server](https://api.avu
 
 <p align="center">
 <a href="https://www.instagram.com/d.avux/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-d.avux-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avuxgaming@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avuxgaming@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:avuxdemons@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avuxdemons@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://saweria.co/avux/"><img alt="Donate" src="https://img.shields.io/badge/Donate-Saweria.co-blue?style=flat-square&logo=paypal"></a>
 </p>
