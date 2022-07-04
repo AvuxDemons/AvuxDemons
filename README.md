@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Avux</h2>
 <div align="left"><img alt="Avux"src="https://discord.c99.nl/widget/theme-2/891629296723050497.png"></div>
-<div align="left"><img alt="Avux"src="https://komarev.com/ghpvc/?username=avuxdemons&style=flat-square&label=PROFILE+VIEWS&color=lightgrey"> <a href="https://avux.ga/"><img alt="Website" src="https://img.shields.io/badge/Website-www.avux.ga-blue?style=flat-square&logo=google-chrome"></a> <a href="https://avux.ga/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Avux-red?style=flat-square&logo=youtube"></a></div>
+<div align="left"><img alt="Avux"src="https://komarev.com/ghpvc/?username=avuxdemons&style=flat-square&label=PROFILE+VIEWS&color=lightgrey"> <a href="https://avux.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-avux.xyz-blue?style=flat-square&logo=google-chrome"></a> <a href="https://avux.xyz/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Avux-red?style=flat-square&logo=youtube"></a></div>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 My name is Avux , Im from Sidoarjo, Jawa Timur, Indonesia
@@ -11,7 +11,7 @@ If you have any questions, feel free to join my [Discord Server](https://api.avu
 
 ## 📁 Information
 
-- 🤔 &nbsp; Exploring new technologies , design website and developing Software , Rest API and Discord Bot.
+- 🤔 &nbsp; Exploring new technologies , design website and developing Rest API and Discord Bot.
 - 🎓 &nbsp; Senior High School Antartika Sidoarjo , Jawa Timur , Indonesia.
 - 💼 &nbsp; Not Yet.
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
