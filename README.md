@@ -5,10 +5,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 My name is Avux , Im from Sidoarjo, Jawa Timur, Indonesia
 
-I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in C# , JavaScript , CSS , and HTML. My most popular/well known project so far is [Rika#1672](https://rika.ga), a Discord Bot that reached over 85+ Servers and [ΛVUX ΛPI](https://api.avux.ga), a Rest API for your Discord Bot.
-
-If you have any questions, feel free to join my [Discord Server](https://api.avux.ga/support). I'm pretty much always around and have time to answer stuff.
-
 ## 📁 Information
 
 - 🤔 &nbsp; Exploring new technologies , design website and developing Rest API and Discord Bot.
