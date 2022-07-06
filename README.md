@@ -3,7 +3,7 @@
 <div align="center"><img alt="Avux"src="https://komarev.com/ghpvc/?username=avuxdemons&style=flat-square&label=PROFILE+VIEWS&color=lightgrey"> <a href="https://avux.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-avux.xyz-blue?style=flat-square&logo=google-chrome"></a> <a href="https://avux.xyz/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Avux-red?style=flat-square&logo=youtube"></a></div>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-My name is Avux , Im from Sidoarjo, Jawa Timur, Indonesia
+My name is Avux . 18 y'o Im from Sidoarjo, Jawa Timur, Indonesia
 
 ## 📁 Information
 
