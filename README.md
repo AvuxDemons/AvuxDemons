@@ -7,7 +7,7 @@ My name is Avux . 18 y'o Im from Sidoarjo, Jawa Timur, Indonesia
 
 ## 📁 Information
 
-- 🤔 &nbsp; Exploring new technologies , design website and developing Rest API and Discord Bot.
+- 🤔 &nbsp; Exploring new technologies
 - 🎓 &nbsp; Senior High School Antartika Sidoarjo , Jawa Timur , Indonesia.
 - 💼 &nbsp; Not Yet.
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
