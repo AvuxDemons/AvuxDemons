@@ -8,7 +8,7 @@ My name is Avux . 18 y'o Im from Sidoarjo, Jawa Timur, Indonesia
 ## 📁 Information
 
 - 🤔 &nbsp; Exploring new technologies
-- 🎓 &nbsp; Senior High School Antartika Sidoarjo , Jawa Timur , Indonesia.
+- 🎓 &nbsp; Senior High School Antartika Sidoarjo | Institut Teknologi Adhi Tama Surabaya
 - 💼 &nbsp; Not Yet.
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
 - 🍭 &nbsp; Gaming, Coding and Travelling as hobbies.
