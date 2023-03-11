@@ -1,5 +1,8 @@
-<h2 align="center"> Hey there! I'm Avux</h2>
-<a href="https://discord.com/users/891629296723050497" target="_blank"><img width="35%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/891629296723050497"></a>
+<h2 align="center"> Hey there! I'm <b>Avux</b></h2>
+<p align="center">
+<img src="https://whatifgaming.com/wp-content/uploads/2022/03/Sleepy-Anime-Boys.gif"/>
+</p>
+
 <div align="center"><img alt="Avux"src="https://komarev.com/ghpvc/?username=avuxdemons&style=flat-square&label=PROFILE+VIEWS&color=lightgrey"> <a href="https://avux.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-avux.xyz-blue?style=flat-square&logo=google-chrome"></a> <a href="https://avux.xyz/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Avux-red?style=flat-square&logo=youtube"></a></div>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -8,19 +11,16 @@ My name is Avux . 19 y'o Im from Sidoarjo, Jawa Timur, Indonesia
 ## 📁 Information
 
 - 🤔 &nbsp; Exploring new technologies
-- 🎓 &nbsp; Senior High School Antartika Sidoarjo | Institut Teknologi Adhi Tama Surabaya
+- 🎓 &nbsp; Antartika Senior High School Sidoarjo | Institut Teknologi Adhi Tama Surabaya
 - 💼 &nbsp; Not Yet.
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
 - 🍭 &nbsp; Gaming, Coding and Travelling as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp; <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-- 🌐 &nbsp; <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-
-- 🔧 &nbsp;
- ![Visual Studio Code](https://img.shields.io/badge/-VsCode%20-2C2C32?style=style=for-the-badge&logo=visual-studio-code&logoColor=0078D7)
-
+- 💻 &nbsp; <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+- 🌐 &nbsp; <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+- 🔧 &nbsp; <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white"/> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 
 <br/>
 <div align="center">
