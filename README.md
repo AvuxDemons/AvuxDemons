@@ -3,7 +3,11 @@
 <img src="https://whatifgaming.com/wp-content/uploads/2022/03/Sleepy-Anime-Boys.gif"/>
 </p>
 
-<div align="center"><img alt="Avux"src="https://komarev.com/ghpvc/?username=avuxdemons&style=flat-square&label=PROFILE+VIEWS&color=lightgrey"> <a href="https://avux.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-avux.xyz-blue?style=flat-square&logo=google-chrome"></a> <a href="https://youtube.com/@avux/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Avux-red?style=flat-square&logo=youtube"></a></div>
+<div align="center"><a href="https://avux.cc/"><img alt="Website" src="https://img.shields.io/badge/Website-avux.cc-blue?style=flat-square&logo=google-chrome"></a> <a href="https://youtube.com/@avux/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Avux-red?style=flat-square&logo=youtube"></a></div>
+
+<p align="center">
+<img src="https://count.caliphdev.my.id/get/@avuxdemons?theme=rule34"/>
+</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 My name is Avux . 19 y'o Im from Sidoarjo, Jawa Timur, Indonesia
