@@ -10,7 +10,7 @@
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-My name is Avux . 19 y'o Im from Sidoarjo, Jawa Timur, Indonesia
+My name is Avux . 20 y'o Im from Sidoarjo, Jawa Timur, Indonesia
 
 ## 📁 Information
 
