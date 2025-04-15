@@ -12,7 +12,7 @@ My name is Avux . 21 y'o Im from Sidoarjo, Jawa Timur, Indonesia
 
 - 🤔 &nbsp; Exploring new technologies
 - 🎓 &nbsp; Antartika Senior High School Sidoarjo | Institut Teknologi Adhi Tama Surabaya
-- 💼 &nbsp; CV. Kriya Apta as Front End
+- 💼 &nbsp; CV. Kriya Apta as Frontend Developer
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
 - 🍭 &nbsp; Gaming, Coding and Travelling as hobbies.
 
